@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tombanaszek1-sketch.github.io/MyBio/">
+  <a href="https://tomb-bio.vercel.app">
     <img src="assets/bio-preview.jpg" alt="Vorschau meiner Bio-Seite: Profil, Bierdex, Links und Musik" width="460" />
   </a>
 </p>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tombanaszek1-sketch.github.io/MyBio/"><img src="https://img.shields.io/badge/Bio-Links_%26_Musik-e8b04b?style=flat-square&labelColor=18181b" alt="Bio" /></a>
+  <a href="https://tomb-bio.vercel.app"><img src="https://img.shields.io/badge/Bio-Links_%26_Musik-e8b04b?style=flat-square&labelColor=18181b" alt="Bio" /></a>
   <a href="https://antiprojects.de"><img src="https://img.shields.io/badge/Website-antiprojects.de-e8b04b?style=flat-square&labelColor=18181b" alt="Website antiprojects.de" /></a>
   <a href="https://www.bierdex.app"><img src="https://img.shields.io/badge/App-Bierdex-e8b04b?style=flat-square&labelColor=18181b" alt="App Bierdex" /></a>
 </p>
