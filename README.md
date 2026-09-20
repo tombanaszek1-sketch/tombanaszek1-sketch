@@ -1,35 +1,41 @@
 <p align="center">
   <a href="https://tomb-bio.vercel.app">
-    <img src="assets/bio-preview.jpg" alt="Vorschau meiner Bio-Seite: Profil, Bierdex, Links und Musik" width="460" />
+    <img src="assets/bio-preview.jpg" alt="Preview of my bio page: profile, links and music" width="460" />
   </a>
 </p>
 
-<h3 align="center">Hey, ich bin Tom</h3>
+<h3 align="center">Hey, I'm Tom</h3>
 
 <p align="center">
-  Full Stack Developer aus Deutschland. Ich baue Apps, Websites, Minecraft-Plugins und Discord-Bots.
+  Full stack developer from Germany. I build web apps, mobile apps, Java plugins and mods, and Discord bots.
 </p>
 
 <p align="center">
-  <a href="https://tomb-bio.vercel.app"><img src="https://img.shields.io/badge/Bio-Links_%26_Musik-e8b04b?style=flat-square&labelColor=18181b" alt="Bio" /></a>
+  <a href="https://tomb-bio.vercel.app"><img src="https://img.shields.io/badge/Bio-Links_%26_Music-e8b04b?style=flat-square&labelColor=18181b" alt="Bio" /></a>
   <a href="https://antiprojects.de"><img src="https://img.shields.io/badge/Website-antiprojects.de-e8b04b?style=flat-square&labelColor=18181b" alt="Website antiprojects.de" /></a>
   <a href="https://www.bierdex.app"><img src="https://img.shields.io/badge/App-Bierdex-e8b04b?style=flat-square&labelColor=18181b" alt="App Bierdex" /></a>
 </p>
 
 <br />
 
-### Projekte
+### Live
 
-| Projekt | Worum es geht | Stack |
+| Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [**Bierdex**](https://www.bierdex.app) | Bier sammeln und bewerten, im Browser und als Android-App | Next.js, Capacitor |
-| [**Antiprojects**](https://antiprojects.de) | Meine Website für Webdesign und Entwicklung | Next.js, Tailwind |
-| **Messwerk** | Prüft Websites anhand von Screenshots mit KI-Vision | Next.js, Playwright |
-| **CityBuildCore** | Plugin für einen Minecraft-CityBuild-Server | Java, Paper |
-| **Discord-Bots** | Ticket-, Willkommens- und Admin-Bots | Node.js, discord.js |
-| **Vokabeltrainer & Schrittzähler** | Kleine Android-Apps, laufen komplett offline | Next.js, Capacitor |
+| [**Bierdex**](https://www.bierdex.app) | Collect and rate the beers you drink, on the web and as an Android app | Next.js, Capacitor |
+| [**Antiprojects**](https://antiprojects.de) | My site for web design and development work | Next.js, Tailwind |
 
-<sub>Die meisten Repos sind privat. Die verlinkten Projekte kannst du live ansehen.</sub>
+<br />
+
+### What I work on
+
+- **Web apps and sites** with TypeScript, React and Next.js, from landing pages to internal dashboards
+- **Mobile apps** for Android, built from the same web stack and shipped as real offline apps
+- **Minecraft in Java**: server plugins and mods, from small utilities to full gameplay systems
+- **Discord bots** in Node.js for communities: tickets, onboarding, moderation
+- **Tools and experiments**: automation scripts, AI-assisted tooling, 3D and game prototypes
+
+<sub>Most repositories are private. The projects above are the ones you can try yourself.</sub>
 
 <br />
 
@@ -39,7 +45,7 @@
 
 <br />
 
-### Kontakt
+### Contact
 
 <p>
   <img src="https://img.shields.io/badge/Discord-tomttb14-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=18181b" alt="Discord tomttb14" />
