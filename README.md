@@ -24,6 +24,7 @@
 | :-- | :-- | :-- |
 | [**Bierdex**](https://www.bierdex.app) | Collect and rate the beers you drink, on the web and as an Android app | Next.js, Capacitor |
 | [**Antiprojects**](https://antiprojects.de) | My site for web design and development work | Next.js, Tailwind |
+| [**Task Manager+**](https://github.com/tombanaszek1-sketch/TaskManagerPlus) | Open-source task manager for Windows that shows which apps use your CPU, GPU, RAM, disk and network. [Download](https://github.com/tombanaszek1-sketch/TaskManagerPlus/releases/latest) | .NET, WebView2, Next.js |
 
 <br />
 
